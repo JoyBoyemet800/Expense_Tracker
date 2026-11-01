@@ -6,7 +6,6 @@ id,date,title,amount,category,notes,createdAt,updatedAt
 "exp_06","2026-10-25","BookMyShow Movie Tickets (Inox)",980,"Entertainment","2 IMAX tickets + popcorn","2026-10-25T19:20:00.000Z","2026-10-25T19:20:00.000Z"
 "exp_07","2026-10-22","Amazon Tech Accessories",2499,"Shopping","USB-C GaN 65W fast charger","2026-10-22T11:00:00.000Z","2026-10-22T11:00:00.000Z"
 "exp_10","2026-10-10","Netflix Premium 4K Plan",649,"Entertainment","Monthly subscription","2026-10-10T12:00:00.000Z","2026-10-10T12:00:00.000Z"
-"exp_11","2026-10-05","BESCOM Electricity Bill",1850,"Utilities & Bills","Monthly power consumption","2026-10-05T10:00:00.000Z","2026-10-05T10:00:00.000Z"
 "exp_12","2026-09-28","Zomato Office Lunch Box",420,"Food & Dining","Healthy salad bowl","2026-09-28T13:15:00.000Z","2026-09-28T13:15:00.000Z"
 "exp_13","2026-09-25","Zerodha Parag Parikh Flexi Cap",10000,"Investments & Savings","SIP installment","2026-09-25T06:00:00.000Z","2026-09-25T06:00:00.000Z"
 "exp_14","2026-09-18","Indigo Airlines Flight to Mumbai",4800,"Travel & Lodging","Weekend conference ticket","2026-09-18T16:00:00.000Z","2026-09-18T16:00:00.000Z"
