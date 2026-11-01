@@ -1,0 +1,6 @@
+{
+  "name": "Kuber — Minimalist GitHub-Synced Expense Tracker",
+  "description": "Ultra-minimalist Linear/Vercel-inspired smart expense tracker with automated GitHub version-controlled sync, Indian Rupee (₹) analytics, and intelligent categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

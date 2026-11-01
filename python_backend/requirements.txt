@@ -1,0 +1,11 @@
+# Python Backend Dependencies for Kuber Expense Tracker
+# Flask Stack
+flask==3.0.2
+flask-cors==4.0.0
+requests==2.31.0
+python-dotenv==1.0.1
+
+# FastAPI Alternative Stack
+fastapi==0.110.0
+uvicorn[standard]==0.28.0
+pydantic==2.6.4
