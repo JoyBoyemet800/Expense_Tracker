@@ -1,0 +1,172 @@
+[
+  {
+    "id": "exp_01",
+    "title": "Swiggy Gourmet Dinner",
+    "amount": 850,
+    "category": "Food & Dining",
+    "date": "2026-11-01",
+    "notes": "Dinner with team after project milestone",
+    "createdAt": "2026-11-01T20:30:00.000Z",
+    "updatedAt": "2026-11-01T20:30:00.000Z"
+  },
+  {
+    "id": "exp_02",
+    "title": "Uber to Indiranagar Metro",
+    "amount": 340,
+    "category": "Transportation",
+    "date": "2026-11-01",
+    "notes": "Morning office commute",
+    "createdAt": "2026-11-01T09:15:00.000Z",
+    "updatedAt": "2026-11-01T09:15:00.000Z"
+  },
+  {
+    "id": "exp_03",
+    "title": "Zerodha Coin Monthly SIP",
+    "amount": 15000,
+    "category": "Investments & Savings",
+    "date": "2026-10-31",
+    "notes": "Nifty 50 Index Fund auto-debit",
+    "createdAt": "2026-10-31T06:00:00.000Z",
+    "updatedAt": "2026-10-31T06:00:00.000Z"
+  },
+  {
+    "id": "exp_04",
+    "title": "Airtel Broadband Fiber Bill",
+    "amount": 1179,
+    "category": "Utilities & Bills",
+    "date": "2026-10-28",
+    "notes": "200 Mbps plan with GST",
+    "createdAt": "2026-10-28T14:10:00.000Z",
+    "updatedAt": "2026-10-28T14:10:00.000Z"
+  },
+  {
+    "id": "exp_05",
+    "title": "Blinkit Grocery Order",
+    "amount": 1240,
+    "category": "Food & Dining",
+    "date": "2026-10-27",
+    "notes": "Vegetables, milk, sourdough bread, eggs",
+    "createdAt": "2026-10-27T18:45:00.000Z",
+    "updatedAt": "2026-10-27T18:45:00.000Z"
+  },
+  {
+    "id": "exp_06",
+    "title": "BookMyShow Movie Tickets (Inox)",
+    "amount": 980,
+    "category": "Entertainment",
+    "date": "2026-10-25",
+    "notes": "2 IMAX tickets + popcorn",
+    "createdAt": "2026-10-25T19:20:00.000Z",
+    "updatedAt": "2026-10-25T19:20:00.000Z"
+  },
+  {
+    "id": "exp_07",
+    "title": "Amazon Tech Accessories",
+    "amount": 2499,
+    "category": "Shopping",
+    "date": "2026-10-22",
+    "notes": "USB-C GaN 65W fast charger",
+    "createdAt": "2026-10-22T11:00:00.000Z",
+    "updatedAt": "2026-10-22T11:00:00.000Z"
+  },
+  {
+    "id": "exp_08",
+    "title": "Cult.fit Gym Quarterly Pass",
+    "amount": 4500,
+    "category": "Health & Wellness",
+    "date": "2026-10-15",
+    "notes": "Elite membership renewal",
+    "createdAt": "2026-10-15T08:30:00.000Z",
+    "updatedAt": "2026-10-15T08:30:00.000Z"
+  },
+  {
+    "id": "exp_09",
+    "title": "Shell Petrol Station Refuel",
+    "amount": 2200,
+    "category": "Transportation",
+    "date": "2026-10-12",
+    "notes": "V-Power petrol full tank",
+    "createdAt": "2026-10-12T17:10:00.000Z",
+    "updatedAt": "2026-10-12T17:10:00.000Z"
+  },
+  {
+    "id": "exp_10",
+    "title": "Netflix Premium 4K Plan",
+    "amount": 649,
+    "category": "Entertainment",
+    "date": "2026-10-10",
+    "notes": "Monthly subscription",
+    "createdAt": "2026-10-10T12:00:00.000Z",
+    "updatedAt": "2026-10-10T12:00:00.000Z"
+  },
+  {
+    "id": "exp_11",
+    "title": "BESCOM Electricity Bill",
+    "amount": 1850,
+    "category": "Utilities & Bills",
+    "date": "2026-10-05",
+    "notes": "Monthly power consumption",
+    "createdAt": "2026-10-05T10:00:00.000Z",
+    "updatedAt": "2026-10-05T10:00:00.000Z"
+  },
+  {
+    "id": "exp_12",
+    "title": "Zomato Office Lunch Box",
+    "amount": 420,
+    "category": "Food & Dining",
+    "date": "2026-09-28",
+    "notes": "Healthy salad bowl",
+    "createdAt": "2026-09-28T13:15:00.000Z",
+    "updatedAt": "2026-09-28T13:15:00.000Z"
+  },
+  {
+    "id": "exp_13",
+    "title": "Zerodha Parag Parikh Flexi Cap",
+    "amount": 10000,
+    "category": "Investments & Savings",
+    "date": "2026-09-25",
+    "notes": "SIP installment",
+    "createdAt": "2026-09-25T06:00:00.000Z",
+    "updatedAt": "2026-09-25T06:00:00.000Z"
+  },
+  {
+    "id": "exp_14",
+    "title": "Indigo Airlines Flight to Mumbai",
+    "amount": 4800,
+    "category": "Travel & Lodging",
+    "date": "2026-09-18",
+    "notes": "Weekend conference ticket",
+    "createdAt": "2026-09-18T16:00:00.000Z",
+    "updatedAt": "2026-09-18T16:00:00.000Z"
+  },
+  {
+    "id": "exp_15",
+    "title": "Apollo Pharmacy First Aid & Vitamins",
+    "amount": 1150,
+    "category": "Health & Wellness",
+    "date": "2026-09-14",
+    "notes": "Vitamin D3 + Omega 3 supplements",
+    "createdAt": "2026-09-14T19:30:00.000Z",
+    "updatedAt": "2026-09-14T19:30:00.000Z"
+  },
+  {
+    "id": "exp_16",
+    "title": "O’Reilly Tech Books Learning",
+    "amount": 1999,
+    "category": "Education & Learning",
+    "date": "2026-08-20",
+    "notes": "System design architecture guide",
+    "createdAt": "2026-08-20T10:00:00.000Z",
+    "updatedAt": "2026-08-20T10:00:00.000Z"
+  },
+  {
+    "id": "exp_17",
+    "title": "Zerodha Index Fund SIP",
+    "amount": 15000,
+    "category": "Investments & Savings",
+    "date": "2026-08-31",
+    "notes": "Monthly disciplined investment",
+    "createdAt": "2026-08-31T06:00:00.000Z",
+    "updatedAt": "2026-08-31T06:00:00.000Z"
+  }
+]
